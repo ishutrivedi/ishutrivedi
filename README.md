@@ -1,12 +1,12 @@
 Hi 👋 My name is Ishu Trivedi
 =============================
 
-Full Stack Web Developer and AI/ML Enthusiast
+Full Stack AI Engineer
 ---------------------------------------------
 
 * 🌍  I'm based in Waterloo, Canada
 * ✉️  You can contact me at [ishutrivedi93@outlook.com](mailto:ishutrivedi93@outlook.com)
-* 🧠  I'm learning Large Language Models
+* 🧠  I'm learning Knowledge Graphs, Graph RAG
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
